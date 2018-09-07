@@ -63,4 +63,4 @@ For offline use you can add a DNS Entry to `/etc/hosts`
 127.0.0.1               app-name.phx.sh
 ```
 
-Or you can use something like dnsmasq. (See setup instructions here: https://gist.github.com/ogrrd/5831371)
+Or you can use something like dnsmasq. (See setup instructions here: [https://gist.github.com/ogrrd/5831371)](https://gist.github.com/ogrrd/5831371)
